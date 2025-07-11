@@ -3,7 +3,7 @@
 <img width="944" height="534" alt="image" src="https://github.com/user-attachments/assets/bac58437-dc7a-4635-8af3-2a27439f4e42" />
 <img width="944" height="433" alt="image" src="https://github.com/user-attachments/assets/f44e7509-7e9d-4d5d-b85e-2c8fbcaafc33" />
 <img width="944" height="431" alt="image" src="https://github.com/user-attachments/assets/2a37d85c-b783-4016-af21-8fd4db8cf7f1" />
-![Uploading image.png…]()
+<img width="944" height="625" alt="image" src="https://github.com/user-attachments/assets/51b8a2bc-ddcb-48e3-8824-3726011383ee" />
 
 ## Project Description
 Real-time spaceship mission data analysis system with 1000 data points, including critical technical parameters and emergency protocols.
